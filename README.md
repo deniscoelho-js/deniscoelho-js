@@ -1,18 +1,21 @@
 <p align="left">
 <h1 align ="center">Denis Coelho</h1>
 
-<h3> Dev Front-end Jr</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="left" alt="Denis Coelho">
 
-<div>
-  <p align="left">
-  ### 🧑🏻 Sobre
-  - 💙  Typescript/Javascript
-  - 🎮  Games/Animes
-  - 👨🏼‍💻   *ReactJs*
-  <p/>
+<h3>Front-end Jr</h3>
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computer Denis Coelho">
-</div>
+### 🧑🏻 About me
+- ⏳  I'm 20 years old
+- 💙  My preferred language is Javascript
+- 🎮  my hobby is play games
+- 🌱  I’m currently learning *NextJS and Typescript*
+
+### 📊  2021 Goals:
+   - 📂  Expand my portfolio
+   - 🤝  Get a Job
+   - 📈  Improve My Skills
+<p/>
 
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
