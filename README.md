@@ -5,11 +5,10 @@
 
 <h3>Front-end Jr</h3>
 
-### 🧑🏻 About me
-- ⏳  I'm 20 years old
-- 💙  My preferred language is Javascript
-- 🎮  my hobby is play games
-- 🌱  I’m currently learning *NextJS and Typescript*
+### 👨🏼‍💻 Sobre
+- 💙  Typescript/Javascript
+- 🎮  Games/Animes
+- 👨🏼‍💻   *ReactJs and Typescript*
 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
