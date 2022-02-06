@@ -35,7 +35,7 @@
 
   ##
   
-<div> 
+
   <div align="center">
     <a href="https://github.com/deniscoelho-js">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deniscoelho-js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
     <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   </div>
-</div>
+
   
   ##
   
