@@ -5,15 +5,16 @@
 
 <h3>Front-end Jr</h3>
 
-### 👨🏼‍💻 Sobre
+### Sobre
 - 💙  Typescript/Javascript
 - 🎮  Games/Animes
 - 👨🏼‍💻   *ReactJs and Typescript*
 
-### 📊  2021 Goals:
-   - 📂  Expand my portfolio
-   - 🤝  Get a Job
-   - 📈  Improve My Skills
+### 📊 Tecnologias:
+   -  HTML & CSS
+   -  ReactJs & Typescript
+   -  Styled-components $ SASS
+   -  Vtex IO
 <p/>
 
 <!-- <p align="left">
