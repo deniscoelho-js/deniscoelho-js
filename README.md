@@ -1,14 +1,14 @@
 <p align="left">
 <h1 align ="center">Denis Coelho</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="500px" align="right" alt="Computer Denis Coelho">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer Denis Coelho">
 
 <h3> Dev Front-end Jr</h3>
 
 ### 🧑🏻 Sobre
 - 💙  Typescript/Javascript
 - 🎮  Games/Animes
-- 👨🏼‍💻  *ReactJs*
+- 👨🏼‍💻   *ReactJs*
 <p/>
 
 <!-- <p align="left">
