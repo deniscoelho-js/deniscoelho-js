@@ -9,11 +9,11 @@
 - 💙  Typescript/Javascript
 - 🎮  Games/Animes
 - 👨🏼‍💻   *ReactJs and Typescript*
-
+<!-- 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
    - 🤝  Get a Job
-   - 📈  Improve My Skills
+   - 📈  Improve My Skills -->
 <p/>
 
 <!-- <p align="left">
@@ -32,6 +32,9 @@
   <img src ="https://img.shields.io/badge/-figma%20-red?style=for-the-badge&logo=figma&logoColor=white" height ="25"/>
 </p> -->
 
+<div>
+   ###
+</div/   
 
 </div>
 
