@@ -27,29 +27,26 @@
   <img src ="https://img.shields.io/badge/-figma%20-red?style=for-the-badge&logo=figma&logoColor=white" height ="25"/>
 </p> -->
 
-<div>
-  ##
-</div
 
 </div>
 
   ##
   
 <div> 
-<div align="center">
-  <a href="https://github.com/deniscoelho-js">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deniscoelho-js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscoelho-js&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-  <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
-  <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
-  <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-</div>
+  <div align="center">
+    <a href="https://github.com/deniscoelho-js">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deniscoelho-js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscoelho-js&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+  <div style="display: inline_block"><br>
+    <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+    <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
+    <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
+    <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+  </div>
 </div>
   
   ##
