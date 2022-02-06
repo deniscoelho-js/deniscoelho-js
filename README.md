@@ -1,7 +1,7 @@
 <p align="left">
 <h1 align ="center">Denis Coelho</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer Daniel Farias">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="500px" align="right" alt="Computer Denis Coelho">
 
 <h3> Dev Front-end Jr</h3>
 
@@ -10,8 +10,6 @@
 - 🎮  Games/Animes
 - 👨🏼‍💻  *ReactJs*
 <p/>
-
-### 📚  Stack I Work With
 
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
