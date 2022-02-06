@@ -1,7 +1,7 @@
 <p align="left">
 <h1 align ="center">Denis Coelho</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer Denis Coelho">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computer Denis Coelho">
 
 <h3> Dev Front-end Jr</h3>
 
@@ -26,6 +26,10 @@
   <img src ="https://img.shields.io/badge/-NextJS%20-black?style=for-the-badge&logo=vercel&logoColor=white" height ="25"/>
   <img src ="https://img.shields.io/badge/-figma%20-red?style=for-the-badge&logo=figma&logoColor=white" height ="25"/>
 </p> -->
+
+<div>
+  ##
+</div
 
 </div>
 
