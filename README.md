@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Denis Coelho">
 
-<h3>Front-end Jr</h3>
+<h3>Desenvolvedor Front-end Jr</h3>
 
 ### Sobre
 - 💙  Typescript | Javascript
