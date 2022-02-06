@@ -1,15 +1,17 @@
 <p align="left">
 <h1 align ="center">Denis Coelho</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computer Denis Coelho">
-
 <h3> Dev Front-end Jr</h3>
 
-### 🧑🏻 Sobre
-- 💙  Typescript/Javascript
-- 🎮  Games/Animes
-- 👨🏼‍💻   *ReactJs*
-<p/>
+<div>
+  ### 🧑🏻 Sobre
+  - 💙  Typescript/Javascript
+  - 🎮  Games/Animes
+  - 👨🏼‍💻   *ReactJs*
+  <p/>
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" alt="Computer Denis Coelho">
+</div>
 
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
