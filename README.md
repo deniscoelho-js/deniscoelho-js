@@ -9,11 +9,11 @@
 - 💙  Typescript/Javascript
 - 🎮  Games/Animes
 - 👨🏼‍💻   *ReactJs and Typescript*
-<!-- 
+
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
    - 🤝  Get a Job
-   - 📈  Improve My Skills -->
+   - 📈  Improve My Skills
 <p/>
 
 <!-- <p align="left">
