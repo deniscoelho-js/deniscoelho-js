@@ -4,13 +4,14 @@
 <h3> Dev Front-end Jr</h3>
 
 <div>
+  <p align="left">
   ### 🧑🏻 Sobre
   - 💙  Typescript/Javascript
   - 🎮  Games/Animes
   - 👨🏼‍💻   *ReactJs*
   <p/>
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" alt="Computer Denis Coelho">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computer Denis Coelho">
 </div>
 
 <!-- <p align="left">
