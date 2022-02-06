@@ -6,9 +6,9 @@
 <h3>Front-end Jr</h3>
 
 ### Sobre
-- 💙  Typescript/Javascript
-- 🎮  Games/Animes
-- 👨🏼‍💻   *ReactJs and Typescript*
+- 💙  Typescript | Javascript
+- 🎮  Games | Animes
+- 👨🏼‍💻   *ReactJs | Typescript*
 
 ### Tecnologias:
    -  HTML | CSS
