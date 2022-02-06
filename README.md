@@ -10,11 +10,13 @@
 - 🎮  Games/Animes
 - 👨🏼‍💻   *ReactJs and Typescript*
 
-### 📊 Tecnologias:
+### Tecnologias:
    -  HTML & CSS
    -  ReactJs & Typescript
    -  Styled-components $ SASS
    -  Vtex IO
+   
+   ##
 <p/>
 
 <!-- <p align="left">
@@ -33,9 +35,6 @@
   <img src ="https://img.shields.io/badge/-figma%20-red?style=for-the-badge&logo=figma&logoColor=white" height ="25"/>
 </p> -->
 
-<div>
-   ##
-</div/   
 
 </div>
 
