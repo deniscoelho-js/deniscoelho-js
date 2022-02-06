@@ -11,12 +11,12 @@
 - 👨🏼‍💻   *ReactJs and Typescript*
 
 ### Tecnologias:
-   -  HTML & CSS
-   -  ReactJs & Typescript
-   -  Styled-components $ SASS
+   -  HTML | CSS
+   -  ReactJs | Typescript
+   -  Styled-components | SASS
    -  Vtex IO
    
-   ##
+
 <p/>
 
 <!-- <p align="left">
