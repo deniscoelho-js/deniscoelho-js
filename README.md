@@ -52,7 +52,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscoelho-js&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center" ><br>
     <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
@@ -64,7 +64,7 @@
   
   ##
   
-<div> 
+<div align="center" > 
     <a href = "mailto:deniscoelho.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denis-sousa-348081222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
