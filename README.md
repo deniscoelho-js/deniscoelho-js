@@ -6,8 +6,8 @@
 <h3>Desenvolvedor Front-end Jr</h3>
 
 ### Sobre
-- 💙  Typescript | Javascript
 - 👨🏼‍💻   ReactJs | Typescript
+- 💙  Typescript | Javascript
 - 🎮  Games | Animes
 
 ### Tecnologias:
