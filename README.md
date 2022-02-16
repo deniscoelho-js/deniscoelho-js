@@ -8,7 +8,7 @@
 ### Sobre
 - 💙  Typescript | Javascript
 - 🎮  Games | Animes
-- 👨🏼‍💻   *ReactJs | Typescript*
+- 👨🏼‍💻   ReactJs | Typescript
 
 ### Tecnologias:
    -  HTML | CSS
