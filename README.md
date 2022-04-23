@@ -3,16 +3,17 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Denis Coelho">
 
-<h3>Desenvolvedor Front-end Jr</h3>
+<h3>Desenvolvedor Full-Stack Jr</h3>
 
 ### Sobre
-- 🖥  ReactJs | Typescript
-- 💙  Typescript | Javascript
+- 🖥  ReactJs | Angular
+- 💙  Typescript | Java
 - 🎮  Games | Animes
 
 ### Tecnologias:
+   -  ReactJs | Angular
+   -  Node | Java
    -  HTML | CSS
-   -  ReactJs | Typescript
    -  Styled-components | SASS
    -  Vtex IO
    
