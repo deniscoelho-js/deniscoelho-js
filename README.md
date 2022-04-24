@@ -6,12 +6,12 @@
 <h3>Desenvolvedor Full-Stack Jr</h3>
 
 ### Sobre
-- 🖥  ReactJs | Angular
+- 🖥  React | Angular
 - 💙  Typescript | Java
 - 🎮  Games | Animes
 
 ### Tecnologias:
-   -  ReactJs | Angular
+   -  React | Angular
    -  Node | Java
    -  HTML | CSS
    -  Styled-components | SASS
