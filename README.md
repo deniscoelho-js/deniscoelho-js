@@ -6,10 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Denis Coelho">
 
-<!-- <h3>Desenvolvedor Full-Stack</h3> -->
-<h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=QA+Automation+Engineer)](https://git.io/typing-svg)
-</h3>
+<h3>Desenvolvedor Full-Stack</h3>
+
 ### Sobre
 - 🖥  React | Angular
 - 💙  Typescript | Java
