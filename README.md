@@ -12,12 +12,12 @@
 
 
 ### Sobre
-- 🖥  React | Angular
+- 🖥  Engenharia de Software
 - 💙  Java | Javascript
 - 🎮  Games | Animes
 
 ### Tecnologias:
-   -  React | Angular
+   -  Selenium | Appium | Cypress
    -  Node | Java
    -  HTML | CSS
    -  Styled-components | SASS
