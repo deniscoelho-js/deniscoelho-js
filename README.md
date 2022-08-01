@@ -1,13 +1,14 @@
 <p align="left">
 <h1 align ="center">Denis Coelho</h1>
 <br>
+<br>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=QA+Automation+Engineer)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EAF7EC&lines=QA+Automation+Engineer)](https://git.io/typing-svg) -->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Denis Coelho">
 
-<h3>Desenvolvedor Full-Stack</h3>
+<h3>QA Automation Engineer</h3>
 
 ### Sobre
 - 🖥  React | Angular
