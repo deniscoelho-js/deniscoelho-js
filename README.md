@@ -12,7 +12,7 @@
 
 
 ### Sobre
-- 🖥  Engenharia de Software
+- 👨‍🎓  Engenharia de Software
 - 💙  Java | Javascript
 - 🎮  Games | Animes
 
