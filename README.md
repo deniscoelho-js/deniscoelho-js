@@ -10,6 +10,12 @@
 
 <h3>QA Automation Engineer</h3>
 
+
+### Sobre
+- 🖥  React | Angular
+- 💙  Java | Javascript
+- 🎮  Games | Animes
+
 ### Tecnologias:
    -  React | Angular
    -  Node | Java
