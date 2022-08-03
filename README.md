@@ -18,10 +18,11 @@
 
 ### Tecnologias:
    -  Selenium | Appium | Cypress
-   -  Node | Java
-   -  HTML | CSS
-   -  Styled-components | SASS
-   -  Vtex IO
+   -  Java | Javascript
+   -  Jira | Confluence
+   -  Scrum | Kanban
+   -  Github | Bitbucket | SVN
+   -  MySQL | PostgreSQL | SQL Server
    
 
 <p/>
