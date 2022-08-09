@@ -63,8 +63,8 @@
   <div style="display: inline_block" align="center" ><br>
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
-    <img src="[https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
     <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
     <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
     <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
