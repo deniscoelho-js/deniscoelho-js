@@ -21,7 +21,7 @@
    -  Java | Javascript
    -  Jira | Confluence
    -  Scrum | Kanban
-   -  Github | Bitbucket | SVN
+   -  Github | Bitbucket
    -  MySQL | PostgreSQL | SQL Server
    
 <p/>
