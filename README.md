@@ -17,7 +17,8 @@
 - 🎮  Games | Animes
 
 ### Tecnologias:
-   -  Selenium | Appium | Cypress | RobotFramework
+   -  Selenium | Appium 
+   -  Cypress | RobotFramework
    -  Java | Javascript
    -  Jira | Confluence
    -  Scrum | Kanban
