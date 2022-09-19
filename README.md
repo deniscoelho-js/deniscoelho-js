@@ -14,7 +14,6 @@
 ### Sobre
 - 👨‍🎓  Engenharia de Software
 - 💙  Java | Javascript
-- 🎮  Games | Animes
 
 ### Tecnologias:
    -  Selenium | Appium 
