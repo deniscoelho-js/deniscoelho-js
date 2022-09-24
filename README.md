@@ -12,7 +12,7 @@
 
 
 ### Sobre
-- 👨‍🎓  Engenharia de Software
+- 👨‍🎓  Eterno estudante
 - 💙  Java | Javascript
 
 ### Tecnologias:
