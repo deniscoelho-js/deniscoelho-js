@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Denis Coelho">
 
-<h3>QA Analyst</h3>
+<h3>Analista de testes/QA</h3>
 
 
 ### Sobre
