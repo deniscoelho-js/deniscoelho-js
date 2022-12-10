@@ -12,7 +12,7 @@
 
 
 ### Sobre
-- 👨‍🎓  Eterno estudante
+<!-- - 👨‍🎓  Eterno estudante -->
 - 💙  Java | Javascript
 
 ### Tecnologias:
