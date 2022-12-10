@@ -11,9 +11,9 @@
 <h3>Analista de testes/QA</h3>
 
 
-<!-- ### Sobre -->
+### Sobre
 <!-- - 👨‍🎓  Eterno estudante -->
-<!-- - 💙  Java | Javascript -->
+- 💙  Java | Javascript
 
 ### Tecnologias:
    -  Selenium | Appium 
