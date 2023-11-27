@@ -16,10 +16,10 @@ Analista de testes/QA com experiência no setor financeiro, atuando na realizaç
   <p>
 · Testes de Performance: JMeter.
   </p>
-· Testes funcionais, regressivos e exploratórios no ambientes:
+- Testes funcionais, regressivos e exploratórios no ambientes:
  Terminal Financeiro e Mobile.
-· Device Farm: UFT Mobile.
-· Levantamento e escrita de cenários/casos de testes através das
+- Device Farm: UFT Mobile.
+- Levantamento e escrita de cenários/casos de testes através das
 histórias disponibilizadas pelo PO utilizando BDD + Gherkin;
 · Geração e manipulação de massas: CA TDM, Mainframe e SQL.
 · Utilização do ALM Octane, Jira e Confluence para acompanhamento, gestão 
