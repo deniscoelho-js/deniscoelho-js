@@ -11,8 +11,6 @@ Analista de testes/QA com experiência no setor financeiro, atuando na realizaç
 <p>
    <br>
 </p>   
-
-  ##
   <div align="center">
     <a href="https://github.com/deniscoelho-js">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deniscoelho-js&layout=compact&langs_count=7&theme=midnight-purple"/>
