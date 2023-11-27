@@ -19,8 +19,6 @@ Analista de testes/QA com experiência no setor financeiro, atuando na realizaç
       <h1 align ="center"></h1>
   </div>
 
-<br>
-
   <div style="display: inline_block" align="center" ><br>
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
