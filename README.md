@@ -12,8 +12,6 @@ Analista de testes/QA com experiência no setor financeiro, atuando na realizaç
    <br>
 </p>   
 
-</div>
-
   ##
   <div align="center">
     <a href="https://github.com/deniscoelho-js">
@@ -30,10 +28,3 @@ Analista de testes/QA com experiência no setor financeiro, atuando na realizaç
     <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white"/>
     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </div>
-
-  
-  ##
-  
-<div align="center" > 
-   
- </div>
