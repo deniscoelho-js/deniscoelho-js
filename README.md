@@ -7,24 +7,18 @@
 <p style="text-align: justify;">
 Analista de testes/QA com experiência no setor financeiro, atuando na realização de testes funcionais, regressivos e exploratórios em diferentes ambientes como Terminal Financeiro e Mobile PJ. Possuo habilidades em levantar e escrever cenários e casos de testes usando BDD e Gherkin, além de gerenciar e manipular massas de dados usando CA TDM, Mainframe. Sou familiarizado com as ferramentas ALM Octane, Jira e Confluence, que utilizo para acompanhar e gerenciar o ciclo de testes e documentações da Squad. Tenho conhecimentos em metodologias ágeis, bem como nas linguagens de programação Java, Javascript e nas ferramentas Selenium e Cypress, programação orientada a objetos, padrões de projeto Page Object e Page Factory, banco de dados, Git e Github.
 <p/>
+ 
 <h3>atividades Desenvolvidas</h3>
-
-<p style="text-align: justify;">
- <p>
-· Testes de API: Postman e SQL Server.
-  </p>
-  <p>
-· Testes de Performance: JMeter.
-  </p>
-- Testes funcionais, regressivos e exploratórios no ambientes:
- Terminal Financeiro e Mobile.
+- Testes de API: Postman e SQL Server.
+- Testes de Performance: JMeter.
+- Testes funcionais, regressivos e exploratórios no ambientes: Terminal Financeiro e Mobile.
 - Device Farm: UFT Mobile.
 - Levantamento e escrita de cenários/casos de testes através das
 histórias disponibilizadas pelo PO utilizando BDD + Gherkin;
-· Geração e manipulação de massas: CA TDM, Mainframe e SQL.
-· Utilização do ALM Octane, Jira e Confluence para acompanhamento, gestão 
+- Geração e manipulação de massas: CA TDM, Mainframe e SQL.
+- Utilização do ALM Octane, Jira e Confluence para acompanhamento, gestão 
 de testes e documentações da Squad.
-· Metodologias ágeis.
+- Metodologias ágeis.
   
 <h1 align ="center"></h1>
 <p/>
@@ -49,7 +43,3 @@ de testes e documentações da Squad.
     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </div>
 
-- Testes funcionais, regressivos e exploratórios no ambientes:
- Terminal Financeiro e Mobile.
-- Device Farm: UFT Mobile.
-- Levantamento e escrita de cenários/casos de testes através das
