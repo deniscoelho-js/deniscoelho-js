@@ -7,6 +7,7 @@
 <p style="text-align: justify;">
 Analista de testes/QA com experiência no setor financeiro, atuando na realização de testes funcionais, regressivos e exploratórios em diferentes ambientes como Terminal Financeiro e Mobile PJ. Possuo habilidades em levantar e escrever cenários e casos de testes usando BDD e Gherkin, além de gerenciar e manipular massas de dados usando CA TDM, Mainframe. Sou familiarizado com as ferramentas ALM Octane, Jira e Confluence, que utilizo para acompanhar e gerenciar o ciclo de testes e documentações da Squad. Tenho conhecimentos em metodologias ágeis, bem como nas linguagens de programação Java, Javascript e nas ferramentas Selenium e Cypress, programação orientada a objetos, padrões de projeto Page Object e Page Factory, banco de dados, Git e Github.
 <p/>
+<p/>
  
 <h3>atividades Desenvolvidas</h3>
 - Testes de API: Postman e SQL Server.
@@ -21,11 +22,8 @@ de testes e documentações da Squad.
 - Metodologias ágeis.
   
 <h1 align ="center"></h1>
-<p/>
-  <br>
-<p/>
-<p>
-</p>   
+
+<br>
   <div align="center">
     <a href="https://github.com/deniscoelho-js">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deniscoelho-js&layout=compact&langs_count=7&theme=midnight-purple"/>
