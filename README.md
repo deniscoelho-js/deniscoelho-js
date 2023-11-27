@@ -48,3 +48,8 @@ de testes e documentações da Squad.
     <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white"/>
     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </div>
+
+- Testes funcionais, regressivos e exploratórios no ambientes:
+ Terminal Financeiro e Mobile.
+- Device Farm: UFT Mobile.
+- Levantamento e escrita de cenários/casos de testes através das
