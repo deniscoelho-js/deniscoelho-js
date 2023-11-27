@@ -13,17 +13,8 @@
 
 
 ### Sobre
-<!-- - 👨‍🎓  Eterno estudante -->
-- 💙  Java | Javascript
+Analista de testes/QA com experiência no setor financeiro, atuando na realização de testes funcionais, regressivos e exploratórios em diferentes ambientes como Terminal Financeiro e Mobile PJ. Possuo habilidades em levantar e escrever cenários e casos de testes usando BDD e Gherkin, além de gerenciar e manipular massas de dados usando CA TDM, Mainframe. Sou familiarizado com as ferramentas ALM Octane, Jira e Confluence, que utilizo para acompanhar e gerenciar o ciclo de testes e documentações da Squad. Tenho conhecimentos em metodologias ágeis, bem como nas linguagens de programação Java, Javascript e nas ferramentas Selenium e Cypress, programação orientada a objetos, padrões de projeto Page Object e Page Factory, banco de dados, Git e Github.
 
-### Tecnologias:
-   -  Selenium | Appium 
-   -  Cypress | RobotFramework
-   -  Java | Javascript
-   -  Jira | Confluence
-   -  Scrum | Kanban
-   -  Github | Bitbucket
-   -  MySQL | PostgreSQL | SQL Server
    
 <p/>
 <p>
