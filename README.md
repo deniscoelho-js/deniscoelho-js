@@ -9,7 +9,7 @@ Analista de testes/QA com experiência no setor financeiro, atuando na realizaç
 <p/>
 <p/>
  
-<h3>Atividades Desenvolvidas</h3>
+<div><h3>Atividades Desenvolvidas</h3></div>
 - Testes de API: Postman e SQL Server.
 - Testes de Performance: JMeter.
 - Testes funcionais, regressivos e exploratórios no ambientes: Terminal Financeiro e Mobile.
