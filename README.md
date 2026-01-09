@@ -30,11 +30,10 @@ Desenvolvedor Backend Java com sólida experiência em projetos corporativos, at
 
   <div style="display: inline_block" align="center" ><br>
     <img src="https://img.shields.io/badge/-springboot-%43B02A?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-java-%23E5E5E5?style=for-the-badge&logo=java&logoColor=058a5e"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/jira-%230047B3.svg?style=for-the-badge&logo=jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white"/>
     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </div>
