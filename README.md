@@ -23,7 +23,7 @@ Desenvolvedor Backend Java com sólida experiência em projetos corporativos, at
   
   <div style="display: inline_block" align="center" ><br>
     <img src="https://img.shields.io/badge/-springboot-%43B02A?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/junit5-%25A162.svg?style=for-the-badge&logo=junit5&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/jira-%230047B3.svg?style=for-the-badge&logo=jira&logoColor=white"/>
