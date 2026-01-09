@@ -21,13 +21,7 @@ Desenvolvedor Backend Java com sólida experiência em projetos corporativos, at
 <h1 align ="center"></h1>
 
 <br>
-  <div align="center">
-    <a href="https://github.com/deniscoelho-js">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deniscoelho-js&layout=compact&langs_count=7&theme=midnight-purple"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscoelho-js&layout=compact&langs_count=7&theme=midnight-purple"/>
-      <h1 align ="center"></h1>
-  </div>
-
+  
   <div style="display: inline_block" align="center" ><br>
     <img src="https://img.shields.io/badge/-springboot-%43B02A?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
