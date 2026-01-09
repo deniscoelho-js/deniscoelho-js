@@ -2,23 +2,21 @@
 <h1 align ="center">Denis Coelho</h1>
 <br>
 
-## QA Analyst
+## Desenvolvedor Backend
 <p style="text-align: justify;">
-Analista de testes/QA com experiência no setor financeiro, atuando na realização de testes funcionais, regressivos e exploratórios em diferentes ambientes como Terminal Financeiro e Mobile PJ. Possuo habilidades em levantar e escrever cenários e casos de testes usando BDD e Gherkin, além de gerenciar e manipular massas de dados usando CA TDM, Mainframe. Sou familiarizado com as ferramentas ALM Octane, Jira e Confluence, que utilizo para acompanhar e gerenciar o ciclo de testes e documentações da Squad. Tenho conhecimentos em metodologias ágeis, bem como nas linguagens de programação Java, Javascript e nas ferramentas Selenium e Cypress, programação orientada a objetos, padrões de projeto Page Object e Page Factory, banco de dados, Git e Github.
+Desenvolvedor Backend Java com sólida experiência em projetos corporativos, atuando na criação e evolução de aplicações com Spring Boot, Java EE e demais tecnologias do ecossistema Java. Conhecimento em bancos de dados relacionais, integração de sistemas e gestão de código com Git/GitHub.
 <p/>
 <p/>
  
 ## Atividades Desenvolvidas
-- Testes de API: Postman e SQL Server.
-- Testes de Performance: JMeter.
-- Testes funcionais, regressivos e exploratórios no ambientes: Terminal Financeiro e Mobile.
-- Device Farm: UFT Mobile.
-- Levantamento e escrita de cenários/casos de testes através das
-histórias disponibilizadas pelo PO utilizando BDD + Gherkin;
-- Geração e manipulação de massas: CA TDM, Mainframe e SQL.
-- Utilização do ALM Octane, Jira e Confluence para acompanhamento, gestão 
-de testes e documentações da Squad.
-- Metodologias ágeis.
+- Desenvolvimento e manutenção de aplicações corporativas utilizando Java, Spring Boot e Java EE.
+- Criação e consumo de APIs REST, com integração entre sistemas internos e externos.
+- Modelagem e manipulação de bancos de dados relacionais (SQL Server, PostgreSQL, MySQL).
+- Implementação de regras de negócio e serviços backend seguindo princípios de POO e boas práticas de arquitetura.
+- Versionamento e colaboração em projetos utilizando Git/GitHub.
+- Documentação técnica e acompanhamento de tarefas com Jira e Confluence.
+- Participação em metodologias ágeis (Scrum/Kanban), contribuindo para planejamento, desenvolvimento e entrega contínua.
+- Testes unitários para garantir qualidade e estabilidade das aplicações.
   
 <h1 align ="center"></h1>
 
