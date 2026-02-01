@@ -4,7 +4,7 @@
 
 ## Desenvolvedor Backend
 <p style="text-align: justify;">
-Desenvolvedor Backend Java com sólida experiência em projetos corporativos, atuando na criação e evolução de aplicações com Spring Boot, Java EE e demais tecnologias do ecossistema Java. Conhecimento em bancos de dados relacionais, integração de sistemas e gestão de código com Git/GitHub.
+Desenvolvedor Backend Java, atuando na criação e evolução de aplicações com Spring Boot, Java EE e demais tecnologias do ecossistema Java. Conhecimento em bancos de dados relacionais, integração de sistemas e gestão de código com Git/GitHub.
 <p/>
 <p/>
  
