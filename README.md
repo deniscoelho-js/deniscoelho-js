@@ -21,15 +21,17 @@ Ferramentas: Git, GitHub, Docker, Postman.  Arquitetura e boas práticas: Progra
  
 ## Atividades Desenvolvidas
 ### QA
-- Desenvolvimento e manutenção de APIs REST utilizando Java, Spring Boot e SQL Server.
-- Integração de sistemas internos e externos via REST.
-- Implementação de pipelines de CI/CD com Github, Bitbucket e Bamboo.
-- Criação e otimização de consultas e procedures em SQL Server e DB2.
-- Desenvolvimento de serviços para processamento de dados em Mainframe e Microservices.
-- Aplicação de princípios de Clean Code, SOLID e boas práticas de arquitetura.
-- Monitoramento e análise de performance de aplicações com JMeter.
-- Participação em cerimônias Ágeis (Scrum/Kanban) e colaboração com equipes de QA e Frontend.
-- Documentação técnica e suporte a deploys em ambientes Dev, Homologação e Produção.
+- Testes automatizados: Selenium, Cucumber e Rest Assured.
+- Testes de API: Postman e SQL Server.
+- Testes de Performance: JMeter.
+- Testes funcionais, regressivos e exploratórios no ambientes:
+- Terminal Financeiro e Mobile.
+- Device Farm: UFT Mobile.
+- Mainframe: TSO, DB2 e CICS.
+- Levantamento e escrita de cenários/casos de testes através das histórias disponibilizadas pelo PO utilizando BDD + Gherkin;
+- Geração e manipulação de massas: CA TDM, Mainframe e SQL.
+- Utilização do ALM Octane, Jira e Confluence para acompanhamento, gestão  de testes e documentações da Squad.
+- Metodologias ágeis.
 
 ### Backend
 - Desenvolvimento e manutenção de aplicações corporativas utilizando Java, Spring Boot e Java EE.
