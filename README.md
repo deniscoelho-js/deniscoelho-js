@@ -9,7 +9,7 @@ Desenvolvedor Backend Java, atuando na criação e evolução de aplicações co
 <p/>
  
 ## Atividades Desenvolvidas
-# QA
+#QA
 • Desenvolvimento e manutenção de APIs REST utilizando Java, Spring Boot e SQL Server.
 • Integração de sistemas internos e externos via REST.
 • Implementação de pipelines de CI/CD com Github, Bitbucket e Bamboo.
